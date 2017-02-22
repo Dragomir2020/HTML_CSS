@@ -1,0 +1,22 @@
+
+/* Format Google Map */
+.iframe {
+    margin: 30px;
+    position: relative;
+    overflow: hidden;
+    width: 600px;
+    margin: auto;
+    font-size: 14px;
+    border: solid 5px #1e6169;
+}
+
+/* Format General Info */
+#general-info p {
+    width: 350px;
+    margin: auto;
+    text-align: center;
+}
+#general-info {
+    margin: 20px;
+}
+

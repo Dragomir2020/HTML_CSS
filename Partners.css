@@ -1,0 +1,16 @@
+
+/* Format Partners Images */
+.Partners img {
+    display: block;
+    width: 65%;
+    height: 65%;
+    border: solid 5px #1e6169;
+    margin: auto;
+}
+#Partners1 {
+    margin-top: 15px;
+    border-bottom: none;
+}
+#Partners2 {
+    border-top: none;
+}
